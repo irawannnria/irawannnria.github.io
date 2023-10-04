@@ -1,18 +1,18 @@
 [
   {
     "id": 0,
-    "title": "HBX",
-    "url": "https://feeds.feedburner.com/hypebeast/feed/"
+    "title": "Indonesiya",
+    "url": "https://www.indonesiya.com/feed/"
   },
   {
     "id": 1,
-    "title": "WIRED",
-    "url": "https://www.wired.com/feed/rss"
+    "title": "Hasduk Merah Putih",
+    "url": "https://www.hasdukmerahputih.com/feed/"
   },
   {
     "id": 2,
-    "title": "WRC News",
-    "url": "https://www.wrc.com/templates/generated/1/raw/en.xml"
+    "title": "Aridjaya",
+    "url": "https://www.aridjaya.com/feed/"
   },
   {
     "id": 3,
